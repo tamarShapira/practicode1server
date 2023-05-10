@@ -1,0 +1,84 @@
+D:\שונות\ToDoApi\bin\Debug\net7.0\appsettings.Development.json
+D:\שונות\ToDoApi\bin\Debug\net7.0\appsettings.json
+D:\שונות\ToDoApi\bin\Debug\net7.0\ToDoApi.exe
+D:\שונות\ToDoApi\bin\Debug\net7.0\ToDoApi.deps.json
+D:\שונות\ToDoApi\bin\Debug\net7.0\ToDoApi.runtimeconfig.json
+D:\שונות\ToDoApi\bin\Debug\net7.0\ToDoApi.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\ToDoApi.pdb
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.AssemblyReference.cache
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.AssemblyInfoInputs.cache
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.AssemblyInfo.cs
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.CoreCompileInputs.cache
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoApi.props
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoApi.props
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoApi.props
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\שונות\ToDoApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\שונות\ToDoApi\obj\Debug\net7.0\scopedcss\bundle\ToDoApi.styles.css
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.dll
+D:\שונות\ToDoApi\obj\Debug\net7.0\refint\ToDoApi.dll
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.pdb
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.genruntimeconfig.cache
+D:\שונות\ToDoApi\obj\Debug\net7.0\ref\ToDoApi.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Humanizer.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.CopyComplete
+D:\שונות\ToDoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שונות\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שונות\ToDoApi\obj\Debug\net7.0\ToDoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\appsettings.Development.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\appsettings.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\ToDoApi.exe
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\ToDoApi.deps.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\ToDoApi.runtimeconfig.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\ToDoApi.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\ToDoApi.pdb
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Humanizer.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.AssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.ToDoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDoApi.props
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDoApi.props
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDoApi.props
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\scopedcss\bundle\ToDoApi.styles.css
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.csproj.CopyComplete
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\refint\ToDoApi.dll
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.pdb
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ToDoApi.genruntimeconfig.cache
+D:\תמר תכנות\שנה ב\פרקטיקוד\ToDoApi\obj\Debug\net7.0\ref\ToDoApi.dll
